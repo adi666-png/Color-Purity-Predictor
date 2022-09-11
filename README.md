@@ -1,1 +1,1 @@
-# Color-Purity-Predictor-for-Crops
+# Color-Purity-Predictor
